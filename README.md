@@ -1,2 +1,2 @@
-# PLINKO-WITH-SCORES
-PLAY THIS!!! LET ME SEE WHO SCORES MORE 
+# p5.play-boilerplate
+Boiler plate for p5.play
